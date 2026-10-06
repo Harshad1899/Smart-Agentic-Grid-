@@ -1,0 +1,23 @@
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.h5
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Local IDE and operating system files
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
